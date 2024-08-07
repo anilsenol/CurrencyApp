@@ -1,0 +1,16 @@
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  background-image: url(images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.text-area {
+  text-align: center;
+  font-size: 25px;
+  color: black;
+}
